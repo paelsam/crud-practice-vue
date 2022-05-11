@@ -1,4 +1,4 @@
-# pokeapi-project
+# crud-practice-vue
 
 ## Project setup
 ```
